@@ -6,19 +6,18 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## 👤 **About me**
 
 - [cite_start]💻 **Software Developer** especializado en el desarrollo de soluciones tecnológicas robustas[cite: 10].
 - [cite_start]🚀 Actualmente trabajando en **C&S** con tecnologías como **.NET (C#)** y **Angular**[cite: 16, 17, 34].
 - [cite_start]🛠️ Experiencia en optimización de procesos, seguridad de la información y sistemas escalables[cite: 11, 20].
-- [cite_start]🎓 **Técnico Superior en Desarrollo de Software**.
-- [cite_start]🇦🇷 Basado en Funes, Santa Fe, Argentina[cite: 8].
+- [cite_start]🎓 **Técnico Superior en Desarrollo de Software**[cite: 59].
+- [cite_start]🇦🇷 Basado en Funes, Santa Fe, Argentina.
 
 <br>
 
 ## 📂 **Highlighted Projects**
+
 - [cite_start]**iText (GCBA):** Procesamiento de documentos, firma digital y cifrado utilizando .NET 6 y MariaDB[cite: 37, 38, 39, 41, 42].
 - [cite_start]**Plataforma Broker (Schroder):** Procesamiento de transacciones en tiempo real con .NET 8, Angular y SQL Server[cite: 30, 31, 34, 35].
 - [cite_start]**Honeywell (YPF):** Sistema de gestión de inventario y activos desarrollado con .NET 4.8 y Oracle[cite: 22, 23, 27, 28].
@@ -27,7 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## ⚡ **Skills**
 
 <p align="center">
 
@@ -60,7 +59,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## 📈 **Github Stats**
 
 <div align="center">
 <a href="https://github.com/ignacioxherrera">
@@ -73,21 +72,16 @@
 
 ---
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## 🤝 **Let's Connect**
 
 <div align='left'>
 <ul>
 <li>
-<a href="https://linkedin.com/in/ignacio-herrera-135053206" target="_blank">
+<a href="https://linkedin.com/in/ignacio-gaston-herrera" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Ignacio%20Herrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 </li>
 <br>
-<li>
-<a href="mailto:ignacioherrera20212@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-ignacioherrera20212%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
-</a>
-</li>
 </ul>
 </div>
 
