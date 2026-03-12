@@ -12,7 +12,7 @@
 - 🚀 Actualmente trabajando en **C&S** con tecnologías como **.NET (C#)** y **Angular**.
 - 🛠️ Experiencia en optimización de procesos, seguridad de la información y sistemas escalables.
 - 🎓 **Técnico Superior en Desarrollo de Software**.
-- 🇦🇷 Basado en Funes, Santa Fe, Argentina.
+- 📍 Funes, Santa Fe, Argentina.
 
 <br>
 
