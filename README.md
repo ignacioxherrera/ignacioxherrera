@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, me llamo Ignacio Herrera</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, me llamo Ignacio Herrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer+@+C%26S;Full+Stack+.NET+%26+Angular;T%C3%A9cnico+Superior+en+Desarrollo+de+Software;Building+scalable+solutions...;Always+learning+new+techs...<3"></a>
@@ -8,19 +8,19 @@
 
 ## 👤 **About me**
 
-- [cite_start]💻 **Software Developer** especializado en el desarrollo de soluciones tecnológicas robustas[cite: 10].
-- [cite_start]🚀 Actualmente trabajando en **C&S** con tecnologías como **.NET (C#)** y **Angular**[cite: 16, 17, 34].
-- [cite_start]🛠️ Experiencia en optimización de procesos, seguridad de la información y sistemas escalables[cite: 11, 20].
-- [cite_start]🎓 **Técnico Superior en Desarrollo de Software**[cite: 59].
-- [cite_start]🇦🇷 Basado en Funes, Santa Fe, Argentina.
+- 💻 **Software Developer** especializado en el desarrollo de soluciones tecnológicas robustas.
+- 🚀 Actualmente trabajando en **C&S** con tecnologías como **.NET (C#)** y **Angular**.
+- 🛠️ Experiencia en optimización de procesos, seguridad de la información y sistemas escalables.
+- 🎓 **Técnico Superior en Desarrollo de Software**.
+- 🇦🇷 Basado en Funes, Santa Fe, Argentina.
 
 <br>
 
 ## 📂 **Highlighted Projects**
 
-- [cite_start]**iText (GCBA):** Procesamiento de documentos, firma digital y cifrado utilizando .NET 6 y MariaDB[cite: 37, 38, 39, 41, 42].
-- [cite_start]**Plataforma Broker (Schroder):** Procesamiento de transacciones en tiempo real con .NET 8, Angular y SQL Server[cite: 30, 31, 34, 35].
-- [cite_start]**Honeywell (YPF):** Sistema de gestión de inventario y activos desarrollado con .NET 4.8 y Oracle[cite: 22, 23, 27, 28].
+- **iText (GCBA):** Procesamiento de documentos, firma digital y cifrado utilizando .NET 6 y MariaDB.
+- **Plataforma Broker (Schroder):** Procesamiento de transacciones en tiempo real con .NET 8, Angular y SQL Server.
+- **Honeywell (YPF):** Sistema de gestión de inventario y activos desarrollado con .NET 4.8 y Oracle.
 
 <br>
 
@@ -81,7 +81,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-Ignacio%20Herrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 </li>
-<br>
 </ul>
 </div>
 
