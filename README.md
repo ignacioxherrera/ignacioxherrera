@@ -1,21 +1,95 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-<h2>Check My Nuxt Starter Kit</h2>
-  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
-      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
-    </a>
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://mokkapps.de/blog/vue-state-management-composables-provide-inject-pinia target="_blank" rel="noreferrer nofollow">Navigating State Management in Vue: Composables, Provide/Inject, and Pinia</a></li><li><a href=https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea target="_blank" rel="noreferrer nofollow">Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey</a></li><li><a href=https://mokkapps.de/blog/connecting-mysql-database-nuxt-drizzle-orm target="_blank" rel="noreferrer nofollow">Connecting a MySQL Database in Nuxt with Drizzle ORM</a></li><li><a href=https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build target="_blank" rel="noreferrer nofollow">Nuxt Tip: Accessing Pinia Store in Production Build</a></li><li><a href=https://mokkapps.de/blog/vercel-acquires-nuxtlabs target="_blank" rel="noreferrer nofollow">Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt</a></li>
-  </ul>
-<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
-<h2>Latest Newsletter Issues</h2>
-  <ul>
-    <li><a href=https://weekly-vue.news/issues/v2/204 target="_blank" rel="noreferrer nofollow">Weekly Vue News #240 - TypeScript at Scale, Pinia Colada v1, Vite Recap & effectScope Deep Dive</a></li><li><a href=https://weekly-vue.news/issues/v2/203 target="_blank" rel="noreferrer nofollow">Weekly Vue News #239 - Accessibility tips, Nuxt UI updates, and power tools for dev productivity</a></li><li><a href=https://weekly-vue.news/issues/v2/202 target="_blank" rel="noreferrer nofollow">Weekly Vue News #238 - Nuxt UI v4, business wins with Nuxt, and VueUse</a></li><li><a href=https://weekly-vue.news/issues/v2/201 target="_blank" rel="noreferrer nofollow">Weekly Vue News #237 - Top Nuxt Modules for 2026, TypeScript 6.0 Beta, and AI Content Tools</a></li><li><a href=https://weekly-vue.news/issues/v2/200 target="_blank" rel="noreferrer nofollow">Weekly Vue News #246 - Vue on the Edge, Nuxt CLI Upgrades, and the Vite January Recap</a></li>
-  </ul>
-<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+<h1 align="center"><b>Hola, me llamo Ignacio Herrera</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer+@+C%26S;Full+Stack+.NET+%26+Angular;T%C3%A9cnico+Superior+en+Desarrollo+de+Software;Building+scalable+solutions...;Always+learning+new+techs...<3"></a>
+</p>
+
+<br>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+- [cite_start]💻 **Software Developer** especializado en el desarrollo de soluciones tecnológicas robustas[cite: 10].
+- [cite_start]🚀 Actualmente trabajando en **C&S** con tecnologías como **.NET (C#)** y **Angular**[cite: 16, 17, 34].
+- [cite_start]🛠️ Experiencia en optimización de procesos, seguridad de la información y sistemas escalables[cite: 11, 20].
+- [cite_start]🎓 **Técnico Superior en Desarrollo de Software**.
+- [cite_start]🇦🇷 Basado en Funes, Santa Fe, Argentina[cite: 8].
+
+<br>
+
+## 📂 **Highlighted Projects**
+- [cite_start]**iText (GCBA):** Procesamiento de documentos, firma digital y cifrado utilizando .NET 6 y MariaDB[cite: 37, 38, 39, 41, 42].
+- [cite_start]**Plataforma Broker (Schroder):** Procesamiento de transacciones en tiempo real con .NET 8, Angular y SQL Server[cite: 30, 31, 34, 35].
+- [cite_start]**Honeywell (YPF):** Sistema de gestión de inventario y activos desarrollado con .NET 4.8 y Oracle[cite: 22, 23, 27, 28].
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<p align="center">
+
+- **Languages & Frameworks**:
+    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+    ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
+
+- **Databases**:
+    ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+    ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+    ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+<br>
+
+- **Tools & Devops**:
+    ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</p>
+
+<br>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<div align="center">
+<a href="https://github.com/ignacioxherrera">
+  <img src="https://github-readme-stats.vercel.app/api?username=ignacioxherrera&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ignacioxherrera&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="ignacioxherrera"/>
+</a>
+</div>
+
+<br>
+
+---
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+<div align='left'>
+<ul>
+<li>
+<a href="https://linkedin.com/in/ignacio-herrera-135053206" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Ignacio%20Herrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+</li>
+<br>
+<li>
+<a href="mailto:ignacioherrera20212@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-ignacioherrera20212%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
+</a>
+</li>
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
